@@ -1,4 +1,4 @@
-** Termos e Condições **
+**Termos e Condições**
 
 Ao fazer o download ou usar o aplicativo, esses termos se aplicarão automaticamente a você - você deve lê-los com atenção antes de usá-lo. Você não tem permissão para copiar ou modificar o aplicativo, qualquer parte do aplicativo ou nossas marcas comerciais de qualquer forma. Você não tem permissão para tentar extrair o código fonte do aplicativo e também não deve tentar traduzir o aplicativo para outros idiomas ou criar versões derivadas. O aplicativo em si e todas as marcas, direitos autorais, direitos de banco de dados e outros direitos de propriedade intelectual relacionados a ele ainda pertencem a Michael Barney Júnior.
 
@@ -23,7 +23,7 @@ Com relação à responsabilidade de Michael Barney Júnior pelo uso do aplicati
 
 Em algum momento, podemos desejar atualizar o aplicativo. No momento, o aplicativo está disponível no Android e iOS - os requisitos para ambos os sistemas (e para qualquer sistema adicional que decidirmos estender a disponibilidade do aplicativo) podem mudar, e você precisará fazer o download das atualizações se quiser continuar usando a aplicação. Michael Barney Júnior não promete que sempre atualizará o aplicativo para que seja relevante para você e / ou funcione com a versão Android e iOS que você instalou no seu dispositivo. No entanto, você promete sempre aceitar atualizações do aplicativo quando oferecido a você. Também podemos interromper o fornecimento do aplicativo e encerrar o uso a qualquer momento, sem aviso prévio. Salvo indicação em contrário, em caso de rescisão, (a) os direitos e licenças concedidos a você nestes termos terminarão; (b) você deve parar de usar o aplicativo e (se necessário) excluí-lo do seu dispositivo.
 
-** Alterações a estes Termos e Condições **
+**Alterações a estes Termos e Condições**
 
 Posso atualizar nossos Termos e Condições de tempos em tempos. Portanto, é recomendável revisar esta página periodicamente para verificar se há alterações. Eu o notificarei de quaisquer alterações publicando os novos Termos e Condições nesta página.
 
